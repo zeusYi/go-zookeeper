@@ -7,10 +7,10 @@ package zkclient
 
 import (
 	"errors"
+	"github.com/vogo/logger"
+	"github.com/zeusYi/go-zookeeper/go-lib-zk"
 	"io"
 	"reflect"
-
-	"github.com/vogo/logger"
 )
 
 type valueHandler struct {
