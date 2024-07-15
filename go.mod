@@ -1,4 +1,4 @@
-module go-zookeeper
+module github.com/zeusYi/go-zookeeper
 
 go 1.21.9
 
