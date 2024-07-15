@@ -7,7 +7,7 @@ package zkclient
 
 import (
 	"errors"
-	zk "go-zookeeper/go-lib-zk"
+	zk "github.com/zeusYi/go-zookeeper/go-lib-zk"
 	"io"
 	"path/filepath"
 	"reflect"
